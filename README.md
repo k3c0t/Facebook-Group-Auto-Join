@@ -22,7 +22,7 @@
 Tools sederhana dengan antarmuka grafis (GUI) untuk otomatis bergabung ke grup Facebook berdasarkan kata kunci pencarian.
 
 **Catatan Penting**  
-→ Jangan Set Maximal Join Lebih Dari 20 Maximal 10 Per Hari 
+→ Jangan Set Maximal Join Lebih Dari 20 , Maximal 10 Per Hari 
 → Delay Semakin Tinggi Semakin Bagus   
 → Harap Gunakan Akun Kecil Jangan Akun Utama  
 → Resiko Kena Checkpoint Bahkan Baned Permanen Jika Pengunaan Berlebihan
@@ -41,3 +41,10 @@ Tools sederhana dengan antarmuka grafis (GUI) untuk otomatis bergabung ke grup F
 2. setelah terinstal buka cookie-editor di halaman beranda facebook kemudian pilih export terus pilih json terus copy kemudian buka file 'cookies.json' terus paste
 3. simpan dan jalankan toolsnya
 4. duduk santai tunggu hasil :v
+
+
+## Installasi
+- pip3 install -r requirements.txt
+- pip install PySide6 selenium webdriver-manager pyqtdarktheme "jika ingin install module terbaru"
+- run python3 main.py
+
