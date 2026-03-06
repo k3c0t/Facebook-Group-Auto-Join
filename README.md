@@ -22,9 +22,9 @@
 Tools sederhana dengan antarmuka grafis (GUI) untuk otomatis bergabung ke grup Facebook berdasarkan kata kunci pencarian.
 
 **Catatan Penting**  
-→ Jangan Set Maximal Join Lebih Dari 20 
-→ Harap Gunakan Akun Kecil Jangan Akun Utama  
-→ Resiko Kena Checkpoint Bahkan Baned Permanen Jika Pengunaan Berlebihan
+- jangan Set Maximal join lebih dari 20 per hari
+- Gunakan akun kecil atau fanpage kecil
+- Resiko Kena Checkpoint Bahkan Baned Permanen Jika terlalu banyak join dalam satu hari
 
 ## Fitur
 
