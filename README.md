@@ -23,7 +23,6 @@ Tools sederhana dengan antarmuka grafis (GUI) untuk otomatis bergabung ke grup F
 
 **Catatan Penting**  
 → Jangan Set Maximal Join Lebih Dari 20 , Maximal 10 Per Hari 
-
 → Delay Semakin Tinggi Semakin Bagus   
 → Harap Gunakan Akun Kecil Jangan Akun Utama  
 → Resiko Kena Checkpoint Bahkan Baned Permanen Jika Pengunaan Berlebihan
